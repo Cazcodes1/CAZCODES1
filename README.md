@@ -1,6 +1,6 @@
 # Hello!! 👋 I'm Caroline (aka Cazcodes) from Scotland, UK 👩🏻
 
-## I'm a Mum, Partner, Developer, and Lifelong Learner!!
+## I'm a Mum, Partner, Developer and Lifelong Learner!!
 
 - 🌱 I’m currently learning JavaScript
 
