@@ -31,4 +31,4 @@
 
 ---
 
-<img align="left" alt="Cazcodes1 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Cazcodes1&show_icons=true&hide_border=false&title_color=ca158e&icon_color=FFE400&bg_color=09131B&text_color=f9e5ef&border_color=" />
+<img align="left" alt="Cazcodes1 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Cazcodes1&show_icons=true&hide_border=false&title_color=ca158e&icon_color=FFE400&bg_color=f9e5eftext_color=fffff&border_color=" />
