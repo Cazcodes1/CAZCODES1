@@ -1,4 +1,4 @@
-# Hi everyone, I'm Caroline (aka Cazcodes) from Scotland, UK 👩🏻 👋
+# Hello!! 👋 I'm Caroline (aka Cazcodes) from Scotland, UK 👩🏻
 
 ## I'm a Mum, Partner, Developer, and Lifelong Learner!!
 
