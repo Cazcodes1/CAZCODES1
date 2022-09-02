@@ -1,4 +1,4 @@
-# Hi everyone, I'm Caroline from Scotland 👩🏻 👋
+# Hi everyone, I'm Caroline from Scotland, UK👩🏻 👋
 
 ## I'm a Mum, Partner, Developer, and Lifelong Learner!!
 
