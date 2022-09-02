@@ -1,4 +1,4 @@
-# Hi everyone, I'm Caroline from Scotland 👋 👩🏻
+# Hi everyone, I'm Caroline from Scotland 👩🏻 👋
 
 ## I'm a Mum, Partner, Developer, and Lifelong Learner!!
 
@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate with other content creators
 
-- 🥅 2022 Goals: Understand JavaSript 😅
+- 🥅 2022 Goals: Understand JavaSript!! 😂
 
 - ⚡ Fun fact: I'm a keen digital and traditonal artist 🖥 🖌
 
