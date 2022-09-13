@@ -33,4 +33,4 @@
 
 <img align="left" alt="Cazcodes1 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Cazcodes1&hide=contribs&theme=cobalt&show_icons=true)" />
 
-<img align="left" alt="Cazcodes 1 Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cazcodes1" style="padding-left: 30px;"/>
+<img align="left" alt="Cazcodes 1 Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cazcodes1&layout=compact&theme=cobalt" style="padding-left: 30px;"/>
