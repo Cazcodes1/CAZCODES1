@@ -2,6 +2,8 @@
 
 ## I'm a Mum, Partner, Developer and Lifelong Learner!!
 
+<img align="left" alt="desk" width="200px" src="CAZCODES1/desk.png" style="padding-right:10px;"/>
+
 - 🌱 I’m currently learning JavaScript
 
 - 👯 I’m looking to collaborate with other content creators
