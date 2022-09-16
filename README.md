@@ -2,7 +2,7 @@
 
 ## I'm a Mum, Partner, Developer and Lifelong Learner!!
 
-<img align="left" alt="desk" width="26px" src="<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;/>" style="padding-right:10px;"/>
+<img align="left" alt="desk" width="26px" src="https://dribbble.com/shots/6206546-Women-in-Design" style="padding-right:10px;/>" style="padding-right:10px;"/>
 
 - 🌱 I’m currently learning JavaScript
 
