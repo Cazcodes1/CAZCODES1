@@ -2,7 +2,7 @@
 
 ## I'm a Mum, Partner, Developer and Lifelong Learner!!
 
-<img align="right" alt="desk" width="300px" src="https://cdn.dribbble.com/users/1284117/screenshots/6206546/media/d201237f0c1a8a3246f7a42b547e59d9.gif" style="padding-right:10px;/>" style="padding-right:10px;"/>
+<img align="right" alt="desk" width="300px" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/media/104fdca210b0c914e704af5febb91ca8.gif" style="padding-right:10px;/>" style="padding-right:10px;"/>
 
 - 🌱 I’m currently learning JavaScript
 
