@@ -26,6 +26,9 @@
 
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;"/>
 
+
+<img align="left" alt="desk" width="26px" src="https://dribbble.com/shots/3848396-Character-Typing/attachments/10055179?mode=media" style="padding-right:10px;"/>
+
 <br />
 <br />
 
