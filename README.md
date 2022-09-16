@@ -2,6 +2,8 @@
 
 ## I'm a Mum, Partner, Developer and Lifelong Learner!!
 
+<img align="left" alt="desk" width="26px" src="<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;/>" style="padding-right:10px;"/>
+
 - 🌱 I’m currently learning JavaScript
 
 - 👯 I’m looking to collaborate with other content creators
