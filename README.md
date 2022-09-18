@@ -3,10 +3,11 @@
 ## I'm a Mum, Partner, Developer and Lifelong Learner!!
 
 
+<img align="centre" alt="caroline" width="300px" src="https://user-images.githubusercontent.com/98355519/190927223-0aa2f017-b4ab-472d-a81d-4caadf8f3644.png"/>
 
 
 
-<img align="right" alt="desk" width="250px" src="https://user-images.githubusercontent.com/98355519/190926813-20497d71-e4f7-4715-81cb-312abeb45a36.png"/>
+
 
 - 🌱 I’m currently learning JavaScript
 
@@ -37,8 +38,7 @@
 <br />
 <br />
 
----
 
-<img align="left" alt="Cazcodes1 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Cazcodes1&hide=contribs&theme=cobalt&show_icons=true)" />
+<img align="center" alt="Cazcodes1 GitHub Stats" width="350px" src="https://github-readme-stats.vercel.app/api?username=Cazcodes1&hide=contribs&theme=cobalt&show_icons=true)" />
 
 <img align="left" alt="Cazcodes 1 Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cazcodes1&layout=compact&theme=cobalt" style="padding-left: 40px;"/>
