@@ -3,7 +3,7 @@
 ## I'm a Mum, Partner, Developer and Lifelong Learner!!
 
 
-<img align="right" alt="caroline" width="250px" src="https://user-images.githubusercontent.com/98355519/190927223-0aa2f017-b4ab-472d-a81d-4caadf8f3644.png"/>
+<img align="right" alt="caroline" width="200" src="https://user-images.githubusercontent.com/98355519/190927223-0aa2f017-b4ab-472d-a81d-4caadf8f3644.png"/>
 
 
 
