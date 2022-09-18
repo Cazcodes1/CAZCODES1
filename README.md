@@ -6,7 +6,7 @@
 
 
 
-<img align="right" alt="desk" width="250px" src="https://user-images.githubusercontent.com/98355519/190926813-20497d71-e4f7-4715-81cb-312abeb45a36.png" style="padding-right:10px;"/>
+<img align="right" alt="desk" width="250px" src="https://user-images.githubusercontent.com/98355519/190926813-20497d71-e4f7-4715-81cb-312abeb45a36.png"/>
 
 - 🌱 I’m currently learning JavaScript
 
