@@ -2,7 +2,7 @@
 
 ## I'm a Mum, Partner, Developer and Lifelong Learner!!
 
-<img align="right" alt="desk" width="300px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" style="padding-right:10px;/>" style="padding-right:10px;"/>
+<img align="right" alt="desk" width="300px" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/media/104fdca210b0c914e704af5febb91ca8.gif" style="padding-right:10px;/>" style="padding-right:10px;"/>
 
 - 🌱 I’m currently learning JavaScript
 
@@ -13,6 +13,8 @@
 - ⚡ Fun fact: I'm a keen digital and traditonal artist 🖥 🖌
 
 - ⚡ Fun fact: I love to travel ⛰ 🏖
+
+gif by Vincent Mukuenko
 
 #
 
