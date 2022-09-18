@@ -2,7 +2,11 @@
 
 ## I'm a Mum, Partner, Developer and Lifelong Learner!!
 
-<img align="right" alt="desk" width="300px" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/media/104fdca210b0c914e704af5febb91ca8.gif" style="padding-right:10px;/>" style="padding-right:10px;"/>
+
+
+
+
+<img align="right" alt="desk" width="300px" src="https://user-images.githubusercontent.com/98355519/190926813-20497d71-e4f7-4715-81cb-312abeb45a36.png" style="padding-right:10px;"/>
 
 - 🌱 I’m currently learning JavaScript
 
@@ -14,7 +18,7 @@
 
 - ⚡ Fun fact: I love to travel ⛰ 🏖
 
-gif by Vincent Mukuenko
+
 
 #
 
