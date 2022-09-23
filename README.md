@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact: I'm a keen digital and traditonal artist 🖥 🖌
 
-- ⚡ Fun fact: I love to travel ⛰ 🏖
+- ⚡ Fun fact: I love to travel 🏖
 
 #
 
