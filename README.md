@@ -1,12 +1,17 @@
-# Hello!! 👋 I'm Caroline (aka Cazcodes) from Scotland, UK 👩🏻
+# Hello!! 👋 I'm Caroline (aka Cazcodes) from Scotland, UK 
 
 ## I'm a Mum, Partner, Developer and Lifelong Learner!!
 
-<img align="right" alt="desk" width="300px" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/media/104fdca210b0c914e704af5febb91ca8.gif" style="padding-right:10px;/>" style="padding-right:10px;"/>
+
+<img align="right" alt="caroline" width="200" src="https://user-images.githubusercontent.com/98355519/190927223-0aa2f017-b4ab-472d-a81d-4caadf8f3644.png"/>
+
+
+
+
 
 - 🌱 I’m currently learning JavaScript
 
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other developers
 
 - 🥅 2022 Goals: Understand JavaSript!! 😂
 
@@ -14,8 +19,10 @@
 
 - ⚡ Fun fact: I love to travel 🏖
 
-#
 
+
+#
+ 
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
@@ -31,8 +38,7 @@
 <br />
 <br />
 
----
 
-<img align="left" alt="Cazcodes1 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Cazcodes1&hide=contribs&theme=cobalt&show_icons=true)" />
+<img align="center" alt="Cazcodes1 GitHub Stats" width="350px" src="https://github-readme-stats.vercel.app/api?username=Cazcodes1&hide=contribs&theme=cobalt&show_icons=true)" />
 
 <img align="left" alt="Cazcodes 1 Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cazcodes1&layout=compact&theme=cobalt" style="padding-left: 40px;"/>
