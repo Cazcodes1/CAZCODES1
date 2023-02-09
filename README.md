@@ -4,7 +4,7 @@
 
 <img align="right" alt="desk" width="300px" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/media/104fdca210b0c914e704af5febb91ca8.gif" style="padding-right:10px;/>" style="padding-right:10px;"/>
 
-- 🌱 I’m currently learning JavaScript and Ruby
+- 🌱 I’m currently learning JavaScript
 
 - 👯 I’m looking to collaborate with other content creators
 
