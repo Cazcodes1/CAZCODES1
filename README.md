@@ -16,6 +16,8 @@
 
 #
 
+(https://github-readme-stats.vercel.app/api?username=cazcodes1)](https://github.com/cazcodes1/github-readme-stats)
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
