@@ -15,8 +15,10 @@
 - ⚡ Fun fact: I love to travel 🏖 🗺
 
 #
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cazcodes1&show_icons=true&theme=outrun)
 
-(https://github-readme-stats.vercel.app/api?username=cazcodes1)](https://github.com/cazcodes1/github-readme-stats)
+
+
 
 ### Languages and Tools:
 
