@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate with other content creators
 
-- 🥅 2022 Goals: Understand JavaSript!! 😂
+- 🥅 2023 Goals: Understand JavaSript!! 😂
 
 - ⚡ Fun fact: I'm a keen digital and traditonal artist 🖥 🖌
 
